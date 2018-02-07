@@ -88,7 +88,7 @@
 	
 		<fx:application id="fxApplication"
 			name=""
-			mainClass="app.bla"
+			mainClass="app.Main"
 			toolkit="fx"
 		/>
 	
